@@ -1,7 +1,7 @@
 # Music-Player
 
 - A Responsive Misic Player with Simple, Attractive UI.
-- An amazing Animation implemented.
+- An amazing Animation and Roating CD Player implemented.
 - It is also responsive for Mobile Phone.
 - Using only HTML, CSS and Vanila Js.
 
