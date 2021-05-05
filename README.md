@@ -1,4 +1,4 @@
-# Music-Player
+# Music-Player 🎵🎼🎵
 
 - A Responsive Misic Player with Simple, Attractive UI.
 - An amazing Animation and Roating CD Player implemented.
@@ -10,3 +10,4 @@
 ![screenshot](https://github.com/blackcodding/Music-Player/blob/master/screenshot-1.PNG)
 ![screenshot](https://github.com/blackcodding/Music-Player/blob/master/screenshot-2.PNG)
 ![screenshot](https://github.com/blackcodding/Music-Player/blob/master/screenshot-3.PNG)
+![screenshot](https://github.com/blackcodding/Music-Player/blob/master/MusicPlayer-Gif.gif)
