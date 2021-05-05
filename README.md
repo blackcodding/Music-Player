@@ -1,4 +1,4 @@
-# Music-Player 🎵🎼🎵
+# Music Player 🎵🎼🎵
 
 - A Responsive Misic Player with Simple, Attractive UI.
 - An amazing Animation and Roating CD Player implemented.
