@@ -10,4 +10,3 @@ Sreenshots Below 👇
 ![screenshot](https://github.com/blackcodding/Music-Player/blob/master/screenshot-1.PNG)
 ![screenshot](https://github.com/blackcodding/Music-Player/blob/master/screenshot-2.PNG)
 ![screenshot](https://github.com/blackcodding/Music-Player/blob/master/screenshot-3.PNG)
-![screenshot](https://github.com/blackcodding/Music-Player/blob/master/MusicPlayer-Gif.gif)
