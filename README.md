@@ -1,9 +1,9 @@
 # Music Playe 🎵
 
-- A Responsive Misic Player with Simple, Attractive UI.
-- An amazing Animation and Roating CD Player implemented.
-- It is also responsive for Mobile Phone.
-- Using only HTML, CSS and Vanila Js.
+- A Simple, Attractive UI.
+- Animation and Rotating CD Player effect.
+- Responsive and simple design.
+- Made with HTML, CSS and Vanila Js.
 
 Sreenshots Below 👇
 
