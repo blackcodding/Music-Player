@@ -1,4 +1,4 @@
-# Music Playe 🎵
+# Music Player 🎵
 
 - A Simple, Attractive UI.
 - Animation and Rotating CD Player effect.
